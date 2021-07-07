@@ -1,0 +1,22 @@
+#p2 {
+    text-align: left;
+    font-size: 30px;
+    color:indigo;
+    background-color: lawngreen;
+}
+
+div {
+    text-align: center;
+    border: 1px solid black;
+    background-color: rgb(43, 226, 119);
+    font-size: 30px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 50px;
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
